@@ -4,14 +4,17 @@
 可配置的json文件：
 config.json 文件就是配置文件，在创建的仓库内可以找到，对应修改为自己的即可。
 
+`
 {
     "title":"Meekdai",
     "subTitle":"童话是一种生活态度，仅此而已。",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION":"last"
 }
+`
 以上是必须的字段，下面是可以自定义字段的描述，可以选择加入到config.json中。
 
+`
 "displayTitle":"Meekdai",
 "homeUrl":"http://blog.meekdai.com",
 "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg",
@@ -38,3 +41,4 @@ config.json 文件就是配置文件，在创建的仓库内可以找到，对�
 "rssSplit":"sentence",
 "bottomText":"转载请注明出处",
 "ogImage":"https://cdn.jsdelivr.net/gh/Meekdai/meekdai.github.io/logo64.jpg",
+`
