@@ -2,5 +2,14 @@
     "title":"WyEloper的博客",
     "subTitle":"我是WyEloper，分享好玩软件和DIY的博主",
     "avatarUrl":"https://avatars.githubusercontent.com/u/10302484?v=4",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "email":"meekdai@163.com",
+    "startSite":"06/23/2024",
+    "commentLabelColor":"#006b75",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "i18n":"CN",
+    "UTC":8,
+    "themeMode":"manual",
+    "bottomText":"转载请注明出处",
+    "ogImage":"https://avatars.githubusercontent.com/u/10302484?v=4"
 }
