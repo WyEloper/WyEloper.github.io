@@ -2,6 +2,8 @@
  [Gmeek快速上手](https://sspai.com/u/hvvlsjqb/updates)
 <https://blog.meekdai.com/post/Gmeek-kuai-su-shang-shou.html>
 
+【开始写作】打开一篇issue，开始写作，并且**必须**添加一个标签Label（至少添加一个），再保存issue后会自动创建博客内容，片刻后可通过https://xxx.github.io/ 访问（可进入Actions页面查看构建进度）。
+
 可配置的json文件：
 > config.json 文件就是配置文件，在创建的仓库内可以找到，对应修改为自己的即可。
 
